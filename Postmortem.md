@@ -4,30 +4,26 @@
 
 Início da Iteração | Término da iteração
 ------------ | -------------
-xx/xx/xxxx | xx/xx/xxxx
+03/04/2017 | 26/04/2017
 
 
 ### O que estava planejado
-* Alguma coisa 
-* Alguma coisa 
-* Alguma coisa 
+* Confecção do readme
+* Preparar ata da reunião
+* Escrever as historias de usuario
 
 ### O que foi feito
-* Alguma coisa 
-* Alguma coisa 
-* Alguma coisa 
+* Confecção do readme
+* Preparar ata da reunião
+* Escrever as historias de usuario
 
 ### O que não foi feito
-* Alguma coisa 
-* Alguma coisa 
-* Alguma coisa
+* Nada
 
 ### Planejado para próxima iteração
-* Alguma coisa 
-* Alguma coisa
-* Alguma coisa 
+* Elaboração do Post Mortem da iteração zero
+* Entrega dos Lo-Fis e das Historias de Usuario
 
 ### Lições aprendidas
-* Alguma coisa 
-* Alguma coisa 
-* Alguma coisa 
+* Dividir bem as tarefas
+* Manter a equipe e a estrutura do GitHub organizados 
